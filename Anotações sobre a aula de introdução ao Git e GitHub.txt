@@ -67,7 +67,7 @@ Ssh and gpg (lado esquerdo inferior)
 --- atualizar a pasta no git --
 - abrir git bash
 - git status
-- git add ou git add –A . (atualia a pasta com novas informações)
+- git add . ou git add –A . (atualia a pasta com novas informações)
 Para levar as informações para o GitHub
 - git commit  –m “Inclusão (nome da pasta ou conteúdo incluso)” e enter
 -git push origin main (manda todos commits para nuvem).
